@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on <Secret 🤭> using React and NodeJs
 - 🌱 I’m currently learning React, React-Native and NodeJs in the main time; C++ basics in the spare time
 - 📫 How to reach me: Check the Social Links bellow 👇
+- ⚡ Fun fact: Looking for a new job. Feel free to contact me!
 
 <!--
 **orbtz/orbtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
