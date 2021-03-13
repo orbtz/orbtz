@@ -4,6 +4,10 @@
 - 🌱 I’m currently learning about React and Wordpress
 - 📫 How to reach me: Check the Social Links bellow 👇
 
+* Github: https://github.com/orbtz
+* Twitter: https://twitter.com/faiorb
+* Itch.io: https://faiorb.itch.io
+
 <!--
 **orbtz/orbtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
