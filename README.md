@@ -1,9 +1,8 @@
 ### Fábio's git page. Hello!
 
-- 🔭 I’m currently working on <Secret 🤭> using React and NodeJs
-- 🌱 I’m currently learning React, React-Native and NodeJs in the main time; C++ basics in the spare time
+- 🔭 I’m currently working on my Personal Website
+- 🌱 I’m currently learning about React and Wordpress
 - 📫 How to reach me: Check the Social Links bellow 👇
-- ⚡ Fun fact: Looking for a new job. Feel free to contact me!
 
 <!--
 **orbtz/orbtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
