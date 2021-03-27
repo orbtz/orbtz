@@ -2,11 +2,9 @@
 
 - 🔭 I’m currently working on my Personal Website
 - 🌱 I’m currently learning about React and Wordpress
-- 📫 How to reach me: Check the Social Links bellow 👇
+- 📫 How to reach me: Check my website 👇
 
-* Github: https://github.com/orbtz
-* Twitter: https://twitter.com/faiorb
-* Itch.io: https://faiorb.itch.io
+* FaBRB: https://fabrb.com
 
 <!--
 **orbtz/orbtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
